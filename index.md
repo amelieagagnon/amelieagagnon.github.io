@@ -1,7 +1,7 @@
 
 
 
-I work as Senior Programme Specialist, leading the Development Unit at UNESCO’s International Institute for Educational Planning (IIEP), where am responsible to design and lead the implementation of tools, guidelines and methodologies that improve the efficiency of educational planning and management in Member States. Check this out: www.iiep.unesco.org/geo
+I work as Senior Programme Specialist, leading the Development Unit at UNESCO’s International Institute for Educational Planning (IIEP), where am responsible to design and lead the implementation of tools, guidelines and methodologies that improve the efficiency of educational planning and management in Member States. Check this out: <a href="www.iiep.unesco.org/geo">www.iiep.unesco.org/geo</>
 
 Please note: this is a personal page, where I share some of my past and current work. 
 Designations employed & presentation of the material on this page do not imply the expression of any opinion whatsoever 
