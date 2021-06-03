@@ -3,10 +3,19 @@
 
 I work as Senior Programme Specialist, leading the Development Unit at UNESCO’s International Institute for Educational Planning (IIEP), where am responsible to design and lead the implementation of tools, guidelines and methodologies that improve the efficiency of educational planning and management in Member States. Check this out: www.iiep.unesco.org/geo
 
-Please note: this is my personal page, where I share some of my past and current work. 
+Please note: this is a personal page, where I share some of my past and current work. 
 Designations employed & presentation of the material on this page do not imply the expression of any opinion whatsoever 
 from my employer concerning legal status of any country, territory, city, area, authorities, concerning the delimitation of 
 frontiers/ boundaries.
+
+### Work featured in the media
+
+2021 GEM Report Blog. <a href="https://gemreportunesco.wordpress.com/2021/04/02/dont-forget-about-those-who-were-not-in-school-before-the-pandemic/"> Don’t forget about those who were not in school before the pandemic</a>
+
+2019 RFI. 
+<a href="https://www.rfi.fr/en/europe/20190619-most-needy-children-missing-out-education-aid-warns-un">Most needy children missing out on education aid, UN warns</a>
+
+
 
 
 ### Publications
