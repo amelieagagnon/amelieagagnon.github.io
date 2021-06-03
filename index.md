@@ -1,7 +1,7 @@
 
 
 
-I work as Senior Programme Specialist, leading the Development Unit at UNESCO’s International Institute for Educational Planning (IIEP), where am responsible to design and lead the implementation of tools, guidelines and methodologies that improve the efficiency of educational planning and management in Member States. Check this out: <a href="www.iiep.unesco.org/geo">www.iiep.unesco.org/geo</>
+I work as Senior Programme Specialist, leading the Development Unit at UNESCO’s International Institute for Educational Planning (IIEP), where am responsible to design and lead the implementation of tools, guidelines and methodologies that improve the efficiency of educational planning and management in Member States. Check this out: <a href="www.iiep.unesco.org/geo">www.iiep.unesco.org/geo</a>
 
 Please note: this is a personal page, where I share some of my past and current work. 
 Designations employed & presentation of the material on this page do not imply the expression of any opinion whatsoever 
@@ -31,4 +31,4 @@ Stone, L., A. Genest, J. Légaré & A. Gagnon (2003) <a href= "https://www.erudi
 
 ### Contact
 
-Find me on Twitter at @AmelieAGagnon
+Find me on Twitter at <a href="https://twitter.com/AmelieAGagnon">@AmelieAGagnon</a>
