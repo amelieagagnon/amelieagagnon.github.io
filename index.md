@@ -9,9 +9,9 @@ from my employer concerning legal status of any country, territory, city, area, 
 frontiers/ boundaries.
 
 ### Publications
-Gagnon, A.A. & G. Vargas Mesa (2021). <a href="https://unesdoc.unesco.org/ark:/48223/pf0000379198.locale=en"> Estimating school-age populations by applying Sprague multipliers to raster data,/a>, Paris: UNESCO
+Gagnon, A.A. & G. Vargas Mesa (2021). <a href="https://unesdoc.unesco.org/ark:/48223/pf0000379198.locale=en"> Estimating school-age populations by applying Sprague multipliers to raster data,</a>, Paris: UNESCO
 
-Srivastava, P., Cardini, A., Matovich, I., Moussy, H., Gagnon, A.A., Jenkins, R., Reuge, N., Moriarty, K., & Anderson, S. (2020). <a href= "https://www.g20-insights.org/wp-content/uploads/2020/11/T20_TF11_PB6.pdf">COVID-19 and the global education emergency: Planning systems for recovery and resilience(</a>. Policy brief for T20 Task Force 11 on (COVID-19) Multidisciplinary Approaches to Complex Problems. Riyadh: T20 Saudi Arabia. 
+Srivastava, P., Cardini, A., Matovich, I., Moussy, H., Gagnon, A.A., Jenkins, R., Reuge, N., Moriarty, K., & Anderson, S. (2020). <a href= "https://www.g20-insights.org/wp-content/uploads/2020/11/T20_TF11_PB6.pdf">COVID-19 and the global education emergency: Planning systems for recovery and resilience</a>. Policy brief for T20 Task Force 11 on (COVID-19) Multidisciplinary Approaches to Complex Problems. Riyadh: T20 Saudi Arabia. 
 
 Simon, P., V. Piché & A. Gagnon (2015) <a href= "http://bit.ly/SSED-2015" > Social Statistics and Ethnic Diversity: Cross-National Perspectives in Classifications and Identity Politics</a>, Springer 
 
