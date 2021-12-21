@@ -3,12 +3,14 @@
 
 I work as Senior Programme Specialist, leading the Development cluster at UNESCO’s International Institute for Educational Planning (IIEP) in Paris, where am responsible to design and lead the implementation of tools, guidelines and methodologies that improve the efficiency of educational planning and management in Member States. Check this out: <a href="www.iiep.unesco.org/geo">www.iiep.unesco.org/geo</a>
 
-Please note: this is a personal page, where I share some of my past and current work. 
+This is a personal page, where I share some of my past and current work. 
 Designations employed & presentation of the material on this page do not imply the expression of any opinion whatsoever 
 from my employer concerning legal status of any country, territory, city, area, authorities, concerning the delimitation of 
 frontiers/ boundaries.
 
 ### Publications
+Vargas Mesa, G. & A.A. Gagnon (2021). <a href="https://unesdoc.unesco.org/ark:/48223/pf0000380202.locale=en"> Geographically Weighted Regressions for prioritizing educational planning, policies, and interventions</a>, Paris: IIEP-UNESCO
+
 Gagnon, A.A. & G. Vargas Mesa (2021). <a href="https://unesdoc.unesco.org/ark:/48223/pf0000379198.locale=en"> Estimating school-age populations by applying Sprague multipliers to raster data</a>, Paris: IIEP-UNESCO
 
 Srivastava, P., Cardini, A., Anderson, S., Bhatty, K., Gagnon, A.A., Jenkins, R., Matovich, I., Moriarty, K., Reuge, N. & Séguin, T. (2021). <a href= "https://www.g20-insights.org/policy_briefs/rebuilding-education-systems-for-recovery-a-crisis-sensitive-and-equity-focused-approach/">Rebuilding Education Systems for Recovery - A Crisis-Sensitive and Equity Focused Approach</a>, Policy Brief for the Social Area "Social Cohesion and the Future of Welfare Systems", Rome: T20 Italia
