@@ -9,6 +9,8 @@ from my employer concerning legal status of any country, territory, city, area, 
 frontiers/ boundaries.
 
 ### Publications
+Bondarenko, M., Sorichetta, A., Vargas Mesa, G., Gagnon, A.A., Tatem, A. (2022). Gridded Sex-Disaggregated School-Age Population Datasets for Countries and Dependent Territories in Africa in 2020, doi:10.5258/SOTON/WP00732
+
 Vargas Mesa, G. & A.A. Gagnon (2021). <a href="https://unesdoc.unesco.org/ark:/48223/pf0000380202.locale=en"> Geographically Weighted Regressions for prioritizing educational planning, policies, and interventions</a>, Paris: IIEP-UNESCO
 
 Gagnon, A.A. & G. Vargas Mesa (2021). <a href="https://unesdoc.unesco.org/ark:/48223/pf0000379198.locale=en"> Estimating school-age populations by applying Sprague multipliers to raster data</a>, Paris: IIEP-UNESCO
