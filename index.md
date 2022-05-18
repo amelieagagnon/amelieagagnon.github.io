@@ -1,7 +1,7 @@
 
 
 
-I work as Senior Programme Specialist, leading the Development cluster at UNESCO’s International Institute for Educational Planning (IIEP) in Paris, where am responsible to design and lead the implementation of tools, guidelines and methodologies that improve the efficiency of educational planning and management in Member States. Check this out: <a href="www.iiep.unesco.org/geo">www.iiep.unesco.org/geo</a>
+I am a Demographer, and I work as Senior Programme Specialist, leading the Development cluster at UNESCO’s International Institute for Educational Planning (IIEP) in Paris, where am responsible to design and lead the implementation of tools, guidelines and methodologies that improve the efficiency of educational planning and management in Member States. Check this out: <a href="www.iiep.unesco.org/geo">www.iiep.unesco.org/geo</a>
 
 Before joining IIEP in 2015, I worked at the UNESCO Institute for Statistics (UIS) advising Member States of Latin America and the Caribbean in matters of EMIS, data collection, data management, monitoring and evaluation. Prior to that, I served as Economist-Statistician at Statistics Canada in Saskatchewan, working on disclosure risks.
 
