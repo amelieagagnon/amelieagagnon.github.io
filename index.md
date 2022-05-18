@@ -10,11 +10,10 @@ frontiers/ boundaries.
 
 ### Publications
 Vargas Mesa, G.; Sheldon, A.; Gagnon, A.A. Forthcoming 2022. <a href="https://github.com/iiepdev/mcda-site-classification-educational-facilities"> Assessing Natural Hazard Risks for Planning Location of Educational Facilities: Multi-Criteria Decision Analysis for Site Classification</a>. IIEP Technical Notes, 4. Paris: IIEP-UNESCO. 
+
 Gagnon, A.A.; Vargas Mesa, G.; Oja, R.; Pyykkönen, S.; Tjukanov, T. Forthcoming 2022. <a href="https://github.com/iiepdev/school-catchment-plugin"> Isochrone-Based Catchment Areas for Educational Planning</a>. Tecnhical Note 3. Paris and Helsinki: IIEP-UNESCO and GISPO Finland.
 
 Gagnon, A.A.; Vargas Mesa, G. 2022. <a href="https://www.internal-displacement.org/"> School-age populations exposed to natural hazards: An approach to triangulate internally displaced population estimates</a>. Background paper to the Global Report on Internal Displacement (GRID) 2022. Geneva: International Displacement Monitoring Centre (IDMC)
-
-
 
 Bondarenko, M., Sorichetta, A., Vargas Mesa, G., Gagnon, A.A., Tatem, A.J. (2022). <a href="https://www.worldpop.org/geodata/listing?id=94"> Gridded Sex-Disaggregated School-Age Population Datasets for Countries and Dependent Territories in Africa in 2020</a>
 
