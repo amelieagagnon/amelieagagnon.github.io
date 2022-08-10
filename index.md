@@ -1,9 +1,11 @@
 
 
 
-I am a Demographer, and I work as Senior Programme Specialist, leading the Development cluster at UNESCO’s International Institute for Educational Planning (IIEP) in Paris, where am responsible to design and lead the implementation of tools, guidelines and methodologies that improve the efficiency of educational planning and management in Member States. Check this out: <a href="www.iiep.unesco.org/geo">www.iiep.unesco.org/geo</a>
+I am a Demographer and Senior Programme Specialist (Development) in the Research and Development unit at UNESCO’s International Institute for Educational Planning (IIEP). 
 
-Before joining IIEP in 2015, I worked at the UNESCO Institute for Statistics (UIS) advising Member States of Latin America and the Caribbean in matters of EMIS, data collection, data management, monitoring and evaluation. Prior to that, I served as Economist-Statistician at Statistics Canada in Saskatchewan, working on disclosure risks.
+I lead the design and implementation of tools, guidelines and methodologies to improve the efficiency and effectiveness of educational planning and management in Member States. Before joining IIEP, I worked at the UNESCO Institute for Statistics, covering the Latin America and the Caribbean education survey, and Statistics Canada within the Canadian Research Data Centre Network in Saskatchewan.
+
+I am the alternate UNESCO Representative to the UN Committee of Experts on Global Geospatial Information Management (UN-GGIM), and have  published a few reports on the use of geospatial data in educational planning, on spatialized school-age population estimates, travel time to school. Reach out on Twitter @AmelieAGagnon
 
 This is a personal page, where I share some of my past and current work. 
 Designations employed & presentation of the material on this page do not imply the expression of any opinion whatsoever 
