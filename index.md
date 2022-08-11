@@ -5,12 +5,15 @@ I am a Demographer and Senior Programme Specialist (Development) in the Research
 
 I lead the design and implementation of tools, guidelines and methodologies to improve the efficiency and effectiveness of educational planning and management in Member States. Before joining IIEP, I worked at the UNESCO Institute for Statistics, covering the Latin America and the Caribbean education survey, and Statistics Canada within the Canadian Research Data Centre Network in Saskatchewan.
 
-I am the alternate UNESCO Representative to the UN Committee of Experts on Global Geospatial Information Management (UN-GGIM), and have  published a few reports on the use of geospatial data in educational planning, on spatialized school-age population estimates, travel time to school. Reach out on Twitter @AmelieAGagnon
+I am the alternate UNESCO Representative to the UN Committee of Experts on Global Geospatial Information Management (UN-GGIM), and have  published a few reports on the use of geospatial data in educational planning, on spatialized school-age population estimates, travel time to school. 
 
 This is a personal page, where I share some of my past and current work. 
 Designations employed & presentation of the material on this page do not imply the expression of any opinion whatsoever 
 from my employer concerning legal status of any country, territory, city, area, authorities, concerning the delimitation of 
 frontiers/ boundaries.
+
+### Contact
+Find me on Twitter at <a href="https://twitter.com/AmelieAGagnon">@AmelieAGagnon</a>
 
 ### Publications
 Vargas Mesa, G.; Sheldon, A.; Gagnon, A.A. Forthcoming 2022. <a href="https://github.com/iiepdev/mcda-site-classification-educational-facilities"> Assessing Natural Hazard Risks for Planning Location of Educational Facilities: Multi-Criteria Decision Analysis for Site Classification</a>. IIEP Technical Notes, 4. Paris: IIEP-UNESCO. 
@@ -37,13 +40,12 @@ Gagnon, A.A. & N. Mondain (2008) <a href="https://numerique.banq.qc.ca/patrimoin
 
 Stone, L., A. Genest, J. Légaré & A.A. Gagnon (2003) <a href= "https://www.erudit.org/fr/revues/cqd/2003-v32-n1-cqd594/007415ar.pdf" >Le vieillissement des populations comme variable causale à effets connus: comment éviter des conclusions hâtives</a>, Cahiers québécois de démographie, vol. 32, n° 1, 2003, pp. 155-165 
 
-### Work featured in the media
+### Work featured in different media
+
+2022 GISPO Finldand Blog. <a href="https://gispofinland.medium.com/analyzing-school-accessibility-on-qgis-3a8b1af53808"> Analyzing school accessibility on QGIS</a>
 
 2021 GEM Report Blog. <a href="https://gemreportunesco.wordpress.com/2021/04/02/dont-forget-about-those-who-were-not-in-school-before-the-pandemic/"> Don’t forget about those who were not in school before the pandemic</a>
 
-2019 RFI. 
-<a href="https://www.rfi.fr/en/europe/20190619-most-needy-children-missing-out-education-aid-warns-un">Most needy children missing out on education aid, UN warns</a>
+2019 RFI. <a href="https://www.rfi.fr/en/europe/20190619-most-needy-children-missing-out-education-aid-warns-un">Most needy children missing out on education aid, UN warns</a>
 
-### Contact
 
-Find me on Twitter at <a href="https://twitter.com/AmelieAGagnon">@AmelieAGagnon</a>
