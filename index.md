@@ -42,7 +42,9 @@ Gagnon, A.A. & N. Mondain (2008) <a href="https://numerique.banq.qc.ca/patrimoin
 
 Stone, L., A. Genest, J. Légaré & A.A. Gagnon (2003) <a href= "https://www.erudit.org/fr/revues/cqd/2003-v32-n1-cqd594/007415ar.pdf" >Le vieillissement des populations comme variable causale à effets connus: comment éviter des conclusions hâtives</a>, Cahiers québécois de démographie, vol. 32, n° 1, 2003, pp. 155-165 
 
-### Work featured in different media
+### In the media
+
+2022. Radio France internationale (Podcast) <a href="https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20221117-sommes-nous-trop-nombreux-pour-aller-%C3%A0-l-%C3%A9cole"> 8 milliards de voisins - Sommes-nous trop nombreux pour aller à l'école?</a>
 
 2022 GISPO Finldand Blog. <a href="https://gispofinland.medium.com/analyzing-school-accessibility-on-qgis-3a8b1af53808"> Analyzing school accessibility on QGIS</a>
 
