@@ -22,7 +22,7 @@ Srivastava, P., Cardini, A., Matovich, I., Bhatty, K., Gagnon, A.A., Jenkins, R.
 
 Gagnon, A.A.; Vargas Mesa, G.; Oja, R.; Pyykkönen, S.; Tjukanov, T. Forthcoming 2022. <a href="https://unesdoc.unesco.org/ark:/48223/pf0000381654/PDF/381654eng.pdf.multi"> Isochrone-Based Catchment Areas for Educational Planning</a>. Tecnhical Note 3. Paris and Helsinki: IIEP-UNESCO and GISPO Finland.
 
-Gagnon, A.A.; Vargas Mesa, G. 2022. <a href="https://www.internal-displacement.org/"> School-age populations exposed to natural hazards: An approach to triangulate internally displaced population estimates</a>. Background paper to the Global Report on Internal Displacement (GRID) 2022. Geneva: International Displacement Monitoring Centre (IDMC)
+Gagnon, A.A.; Vargas Mesa, G. 2022. <a href="https://www.internal-displacement.org/sites/default/files/UNESCO-IIEP-Background-paper-GRID-2022-GAGNON-&-VARGAS-MESA.pdf"> School-age populations exposed to natural hazards: An approach to triangulate internally displaced population estimates</a>. Background paper to the Global Report on Internal Displacement (GRID) 2022. Geneva: International Displacement Monitoring Centre (IDMC)
 
 Bondarenko, M., Sorichetta, A., Vargas Mesa, G., Gagnon, A.A., Tatem, A.J. (2022). <a href="https://www.worldpop.org/geodata/listing?id=94"> Gridded Sex-Disaggregated School-Age Population Datasets for Countries and Dependent Territories in Africa in 2020</a>
 
