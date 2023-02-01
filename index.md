@@ -41,14 +41,14 @@ Gagnon, A.A. & N. Mondain (2008) <a href="https://numerique.banq.qc.ca/patrimoin
 Stone, L., A. Genest, J. Légaré & A.A. Gagnon (2003) <a href= "https://www.erudit.org/fr/revues/cqd/2003-v32-n1-cqd594/007415ar.pdf" >Le vieillissement des populations comme variable causale à effets connus: comment éviter des conclusions hâtives</a>, Cahiers québécois de démographie, vol. 32, n° 1, 2003, pp. 155-165 
 
 ### In the media
-2023 KIX EAP Podcast. <a href="https://www.norrag.org/kix-eap-podcast/"> Episode #21: Demystifying data for localised and meaningful educational results, with Amélie Gagnon</a> <a href="https://open.spotify.com/episode/5H6kWQEZZt0SaOqvWGNlC2?si=5dd59dcffbca48ae&nd=1">spotify</a>
+2023 KIX EAP Podcast. <a href="https://www.norrag.org/kix-eap-podcast/"> Episode #21: "Demystifying data for localised and meaningful educational results, with Amélie Gagnon"</a> <a href="https://open.spotify.com/episode/5H6kWQEZZt0SaOqvWGNlC2?si=5dd59dcffbca48ae&nd=1">Link on Spotify</a>
 
-2022. Radio France internationale (Podcast) <a href="https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20221117-sommes-nous-trop-nombreux-pour-aller-%C3%A0-l-%C3%A9cole"> 8 milliards de voisins - Sommes-nous trop nombreux pour aller à l'école?</a>
+2022 Radio France Internationale. <a href="https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20221117-sommes-nous-trop-nombreux-pour-aller-%C3%A0-l-%C3%A9cole"> "8 milliards de voisins - Sommes-nous trop nombreux pour aller à l'école?"</a>
 
-2022 GISPO Finldand Blog. <a href="https://gispofinland.medium.com/analyzing-school-accessibility-on-qgis-3a8b1af53808"> Analyzing school accessibility on QGIS</a>
+2022 GISPO Finldand Blog. <a href="https://gispofinland.medium.com/analyzing-school-accessibility-on-qgis-3a8b1af53808"> "Analyzing school accessibility on QGIS"</a>
 
-2021 GEM Report Blog. <a href="https://gemreportunesco.wordpress.com/2021/04/02/dont-forget-about-those-who-were-not-in-school-before-the-pandemic/"> Don’t forget about those who were not in school before the pandemic</a>
+2021 GEM Report Blog. <a href="https://gemreportunesco.wordpress.com/2021/04/02/dont-forget-about-those-who-were-not-in-school-before-the-pandemic/"> "Don’t forget about those who were not in school before the pandemic"</a>
 
-2019 RFI. <a href="https://www.rfi.fr/en/europe/20190619-most-needy-children-missing-out-education-aid-warns-un">Most needy children missing out on education aid, UN warns</a>
+2019 RFI. <a href="https://www.rfi.fr/en/europe/20190619-most-needy-children-missing-out-education-aid-warns-un">"Most needy children missing out on education aid, UN warns"</a>
 
 
