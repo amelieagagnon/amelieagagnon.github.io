@@ -5,12 +5,10 @@ I am a Demographer and Senior Programme Specialist (Data and Evidence) in the Te
 
 I lead the design and implementation of tools, guidelines, methodologies, and data analytics work to improve educational planning and management in Member States. Before joining IIEP, I worked at the UNESCO Institute for Statistics, covering the Latin America and the Caribbean education survey, and Statistics Canada within the Canadian Research Data Centre Network in Saskatchewan.
 
-I am the alternate UNESCO Representative to the UN Committee of Experts on Global Geospatial Information Management (UN-GGIM), and have  published a few reports on the use of geospatial data in educational planning, on spatialized school-age population estimates, travel time to school. 
+I am the alternate UNESCO Representative to the UN Committee of Experts on Global Geospatial Information Management (UN-GGIM), and have  published a few reports on the use of geospatial data in educational planning, on spatialized school-age population estimates, travel time to school, etc. 
 
 This is a personal page, where I share some of my past and current work. 
-Designations employed & presentation of the material on this page do not imply the expression of any opinion whatsoever 
-from my employer concerning legal status of any country, territory, city, area, authorities, concerning the delimitation of 
-frontiers/ boundaries.
+Designations employed & presentation of the material on this page do not imply the expression of any opinion whatsoever from my employer concerning legal status of any country, territory, city, area, authorities, concerning the delimitation of frontiers/ boundaries.
 
 ### Contact
 Find me on Twitter at <a href="https://twitter.com/AmelieAGagnon">@AmelieAGagnon</a>
@@ -43,6 +41,8 @@ Gagnon, A.A. & N. Mondain (2008) <a href="https://numerique.banq.qc.ca/patrimoin
 Stone, L., A. Genest, J. Légaré & A.A. Gagnon (2003) <a href= "https://www.erudit.org/fr/revues/cqd/2003-v32-n1-cqd594/007415ar.pdf" >Le vieillissement des populations comme variable causale à effets connus: comment éviter des conclusions hâtives</a>, Cahiers québécois de démographie, vol. 32, n° 1, 2003, pp. 155-165 
 
 ### In the media
+2023 KIX EAP Podcast. <a href="https://www.norrag.org/kix-eap-podcast/"> Episode #21: Demystifying data for localised and meaningful educational results, with Amélie Gagnon</a> <a href="https://open.spotify.com/episode/5H6kWQEZZt0SaOqvWGNlC2?si=5dd59dcffbca48ae&nd=1">spotify</a>
+
 2022. Radio France internationale (Podcast) <a href="https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20221117-sommes-nous-trop-nombreux-pour-aller-%C3%A0-l-%C3%A9cole"> 8 milliards de voisins - Sommes-nous trop nombreux pour aller à l'école?</a>
 
 2022 GISPO Finldand Blog. <a href="https://gispofinland.medium.com/analyzing-school-accessibility-on-qgis-3a8b1af53808"> Analyzing school accessibility on QGIS</a>
