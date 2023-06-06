@@ -11,7 +11,7 @@ This is a personal page, where I share some of my past and current work.
 Designations employed & presentation of the material on this page do not imply the expression of any opinion whatsoever from my employer concerning legal status of any country, territory, city, area, authorities, concerning the delimitation of frontiers/ boundaries.
 
 ### Contact
-Find me on Twitter at <a href="https://twitter.com/AmelieAGagnon">@AmelieAGagnon</a>
+Find me on Twitter at <a href="https://twitter.com/AmelieAGagnon">@AmelieAGagnon</a> or LinkedIn <a href="https://www.linkedin.com/in/amelieagagnon/">@AmelieAGagnon</a>
 
 ### Publications
 Vargas Mesa, G.; Sheldon, A.; Gagnon, A.A. Forthcoming 2022. <a href="https://github.com/iiepdev/mcda-site-classification-educational-facilities"> Assessing Natural Hazard Risks for Planning Location of Educational Facilities: Multi-Criteria Decision Analysis for Site Classification</a>. IIEP Technical Notes, 4. Paris: IIEP-UNESCO. 
