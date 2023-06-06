@@ -14,7 +14,7 @@ Designations employed & presentation of the material on this page do not imply t
 Find me on Twitter at <a href="https://twitter.com/AmelieAGagnon">@AmelieAGagnon</a> or LinkedIn <a href="https://www.linkedin.com/in/amelieagagnon/">@AmelieAGagnon</a>
 
 ### Publications
-Vargas Mesa, G.; Sheldon, A.; Gagnon, A.A. Forthcoming 2022. <a href="https://github.com/iiepdev/mcda-site-classification-educational-facilities"> Assessing Natural Hazard Risks for Planning Location of Educational Facilities: Multi-Criteria Decision Analysis for Site Classification</a>. IIEP Technical Notes, 4. Paris: IIEP-UNESCO. 
+Vargas Mesa, G.; Sheldon, A.; Gagnon, A.A. Forthcoming 2023. <a href="https://github.com/iiepdev/mcda-site-classification-educational-facilities"> Assessing Natural Hazard Risks for Planning Location of Educational Facilities: Multi-Criteria Decision Analysis for Site Classification</a>. IIEP Technical Notes, 4. Paris: IIEP-UNESCO. 
 
 Srivastava, P., Cardini, A., Matovich, I., Bhatty, K., Gagnon, A.A., Jenkins, R., Mundy, K., Reuge, N. & Séguin, T. (2022). <a href= "https://www.g20-insights.org/policy_briefs/rebuilding-education-systems-for-recovery-a-crisis-sensitive-and-equity-focused-approach/">Education recovery for stronger collective futures</a>, Policy Brief for the Social Area "Social Cohesion and the Future of Welfare Systems", Jakarta: T20 Indonesia.
 
