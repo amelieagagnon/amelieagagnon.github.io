@@ -3,7 +3,7 @@
 
 I am a Demographer and Senior Programme Specialist (Data and Evidence) in the Technical Cooperation team at UNESCO’s International Institute for Educational Planning (IIEP). 
 
-I lead the design and implementation of tools, guidelines, methodologies, and data analytics work to improve educational planning and management in Member States. I am the alternate UNESCO Representative to the UN Committee of Experts on Global Geospatial Information Management (UN-GGIM), and have  published a few reports on the use of geospatial data in educational planning, on spatialized school-age population estimates, travel time to school, etc. 
+I lead the design and implementation of tools, guidelines, methodologies, and data analytics work to improve educational planning and management in Member States. I am the alternate UNESCO Representative to the UN Committee of Experts on Global Geospatial Information Management (UN-GGIM), and Vice-Chair of the UN Geospatial Network, and have  published a few reports on the use of geospatial data in educational planning, on spatialized school-age population estimates, travel time to school, etc. 
 
 Before joining IIEP, I worked at the UNESCO Institute for Statistics, covering the Latin America and the Caribbean education survey, and Statistics Canada within the Canadian Research Data Centre Network in Saskatchewan.
 
