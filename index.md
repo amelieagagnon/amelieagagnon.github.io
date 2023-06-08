@@ -7,7 +7,7 @@ I lead the design and implementation of tools, guidelines, methodologies, and da
 
 Currently, I am Vice-Chair of the UN Geospatial Network, and the alternate UNESCO Representative to the UN Committee of Experts on Global Geospatial Information Management (UN-GGIM).
 
-This is a personal page, where I share some of my past and current work. 
+This is a personal page, where I share some of my work. 
 Designations employed & presentation of the material on this page do not imply the expression of any opinion whatsoever from my employer concerning legal status of any country, territory, city, area, authorities, concerning the delimitation of frontiers/ boundaries.
 
 ### Contact
