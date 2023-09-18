@@ -18,7 +18,7 @@ Vargas Mesa, G.; Sheldon, A.; Gagnon, A.A. Forthcoming 2023. <a href="https://gi
 
 Srivastava, P., Cardini, A., Matovich, I., Bhatty, K., Gagnon, A.A., Jenkins, R., Mundy, K., Reuge, N. & Séguin, T. (2022). <a href= "https://www.g20-insights.org/policy_briefs/rebuilding-education-systems-for-recovery-a-crisis-sensitive-and-equity-focused-approach/">Education recovery for stronger collective futures</a>, Policy Brief for the Social Area "Social Cohesion and the Future of Welfare Systems", Jakarta: T20 Indonesia.
 
-Gagnon, A.A.; Vargas Mesa, G.; Oja, R.; Pyykkönen, S.; Tjukanov, T. Forthcoming 2022. <a href="https://unesdoc.unesco.org/ark:/48223/pf0000381654/PDF/381654eng.pdf.multi"> Isochrone-Based Catchment Areas for Educational Planning</a>. Tecnhical Note 3. Paris and Helsinki: IIEP-UNESCO and GISPO Finland.
+Gagnon, A.A.; Vargas Mesa, G.; Oja, R.; Pyykkönen, S.; Tjukanov, T. (2022). <a href="https://unesdoc.unesco.org/ark:/48223/pf0000381654/PDF/381654eng.pdf.multi"> Isochrone-Based Catchment Areas for Educational Planning</a>. Tecnhical Note 3. Paris and Helsinki: IIEP-UNESCO and GISPO Finland.
 
 Gagnon, A.A.; Vargas Mesa, G. 2022. <a href="https://www.internal-displacement.org/sites/default/files/UNESCO-IIEP-Background-paper-GRID-2022-GAGNON-&-VARGAS-MESA.pdf"> School-age populations exposed to natural hazards: An approach to triangulate internally displaced population estimates</a>. Background paper to the Global Report on Internal Displacement (GRID) 2022. Geneva: International Displacement Monitoring Centre (IDMC)
 
