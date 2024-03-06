@@ -8,13 +8,13 @@ I lead the design and implementation of tools, guidelines, methodologies, and da
 Currently, I am Vice-Chair of the UN Geospatial Network, and the alternate UNESCO Representative to the UN Committee of Experts on Global Geospatial Information Management (UN-GGIM).
 
 This is a personal page, where I share some of my work. 
-Designations employed & presentation of the material on this page do not imply the expression of any opinion whatsoever from my employer concerning legal status of any country, territory, city, area, authorities, concerning the delimitation of frontiers/ boundaries.
+Designations employed & presentation of the material on this page do not imply the expression of any opinion whatsoever from my current and former employers concerning legal status of any country, territory, city, area, authorities, concerning the delimitation of frontiers/ boundaries.
 
 ### Contact
 Find me on Twitter at <a href="https://twitter.com/AmelieAGagnon">@AmelieAGagnon</a> or LinkedIn <a href="https://www.linkedin.com/in/amelieagagnon/">/AmelieAGagnon</a>
 
 ### Publications
-Vargas Mesa, G.; Sheldon, A.; Gagnon, A.A. Forthcoming 2023. <a href="https://github.com/iiepdev/mcda-site-classification-educational-facilities"> Assessing Natural Hazard Risks for Planning Location of Educational Facilities: Multi-Criteria Decision Analysis for Site Classification</a>. IIEP Technical Notes, 4. Paris: IIEP-UNESCO. 
+Vargas Mesa, G.; Sheldon, A.; Gagnon, A.A. (2024). <a href="https://github.com/iiepdev/mcda-site-classification-educational-facilities"> Assessing Natural Hazard Risks for Planning Location of Educational Facilities: Multi-Criteria Decision Analysis for Site Classification</a>. IIEP Technical Notes, 4. Paris: IIEP-UNESCO. 
 
 Srivastava, P., Cardini, A., Matovich, I., Bhatty, K., Gagnon, A.A., Jenkins, R., Mundy, K., Reuge, N. & Séguin, T. (2022). <a href= "https://www.g20-insights.org/policy_briefs/rebuilding-education-systems-for-recovery-a-crisis-sensitive-and-equity-focused-approach/">Education recovery for stronger collective futures</a>, Policy Brief for the Social Area "Social Cohesion and the Future of Welfare Systems", Jakarta: T20 Indonesia.
 
@@ -41,7 +41,7 @@ Gagnon, A.A. & N. Mondain (2008) <a href="https://numerique.banq.qc.ca/patrimoin
 Stone, L., A. Genest, J. Légaré & A.A. Gagnon (2003) <a href= "https://www.erudit.org/fr/revues/cqd/2003-v32-n1-cqd594/007415ar.pdf" >Le vieillissement des populations comme variable causale à effets connus: comment éviter des conclusions hâtives</a>, Cahiers québécois de démographie, vol. 32, n° 1, 2003, pp. 155-165 
 
 ### In the media
-2023 KIX EAP Podcast. <a href="https://www.norrag.org/kix-eap-podcast/"> Episode #21: "Demystifying data for localised and meaningful educational results, with Amélie Gagnon"</a> <a href="https://open.spotify.com/episode/5H6kWQEZZt0SaOqvWGNlC2?si=5dd59dcffbca48ae&nd=1">Link on Spotify</a>
+2023 Knowledge Innovation Exchange (KIX) Europe, Middle East and North Africa, Asia and Pacific (EMAP) Podcast. <a href="https://www.norrag.org/kix-eap-podcast/"> Episode #21: "Demystifying data for localised and meaningful educational results, with Amélie Gagnon"</a> Here is the <a href="https://open.spotify.com/episode/5H6kWQEZZt0SaOqvWGNlC2?si=5dd59dcffbca48ae&nd=1">link on Spotify</a>
 
 2022 Radio France Internationale. <a href="https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20221117-sommes-nous-trop-nombreux-pour-aller-%C3%A0-l-%C3%A9cole"> "8 milliards de voisins - Sommes-nous trop nombreux pour aller à l'école?"</a>
 
