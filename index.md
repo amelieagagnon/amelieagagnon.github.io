@@ -10,9 +10,6 @@ Currently, I am Vice-Chair of the UN Geospatial Network, and the alternate UNESC
 This is a personal page, where I share some of my work. 
 Designations employed & presentation of the material on this page do not imply the expression of any opinion whatsoever from my current and former employers concerning legal status of any country, territory, city, area, authorities, concerning the delimitation of frontiers/ boundaries.
 
-### Contact
-Find me on Twitter at <a href="https://twitter.com/AmelieAGagnon">@AmelieAGagnon</a> or LinkedIn <a href="https://www.linkedin.com/in/amelieagagnon/">/AmelieAGagnon</a>
-
 ### Publications
 Vargas Mesa, G.; Sheldon, A.; Gagnon, A.A. (2024). <a href="https://www.iiep.unesco.org/en/publication/multi-criteria-decision-analysis-site-classification-assessing-natural-hazard-risks"> Assessing Natural Hazard Risks for Planning Location of Educational Facilities: Multi-Criteria Decision Analysis for Site Classification</a>. IIEP Technical Notes, 4. Paris: IIEP-UNESCO. 
 
@@ -41,7 +38,7 @@ Gagnon, A.A. & N. Mondain (2008) <a href="https://numerique.banq.qc.ca/patrimoin
 Stone, L., A. Genest, J. Légaré & A.A. Gagnon (2003) <a href= "https://www.erudit.org/fr/revues/cqd/2003-v32-n1-cqd594/007415ar.pdf" >Le vieillissement des populations comme variable causale à effets connus: comment éviter des conclusions hâtives</a>, Cahiers québécois de démographie, vol. 32, n° 1, 2003, pp. 155-165 
 
 ### In the media
-2023 Knowledge Innovation Exchange (KIX) Europe, Middle East and North Africa, Asia and Pacific (EMAP) Podcast. <a href="https://www.norrag.org/kix-eap-podcast/"> Episode #21: "Demystifying data for localised and meaningful educational results, with Amélie Gagnon"</a> Here is the <a href="https://open.spotify.com/episode/5H6kWQEZZt0SaOqvWGNlC2?si=5dd59dcffbca48ae&nd=1">link on Spotify</a>
+2023 Knowledge Innovation Exchange (KIX) Europe, Middle East and North Africa, Asia and Pacific (EMAP) Podcast. <a href="https://www.norrag.org/kix-eap-podcast/"> Episode #21: "Demystifying data for localised and meaningful educational results, with Am Gagnon"</a> Here is the <a href="https://open.spotify.com/episode/5H6kWQEZZt0SaOqvWGNlC2?si=5dd59dcffbca48ae&nd=1">link on Spotify</a>
 
 2022 Radio France Internationale. <a href="https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20221117-sommes-nous-trop-nombreux-pour-aller-%C3%A0-l-%C3%A9cole"> "8 milliards de voisins - Sommes-nous trop nombreux pour aller à l'école?"</a>
 
